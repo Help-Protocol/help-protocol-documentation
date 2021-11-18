@@ -33,6 +33,7 @@
 * [Interchain Transfers](user-guide/interchain-transfers.md)
 * [Web App](user-guide/web-app.md)
 * [Terra Bridge](user-guide/terra-bridge.md)
+* [Help Station](user-guide/help-station.md)
 
 ## External Resources
 
