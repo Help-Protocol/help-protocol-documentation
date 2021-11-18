@@ -12,6 +12,12 @@
 * [Pledge Token](protocol/pledge-token.md)
 * [Terraswap](protocol/terraswap.md)
 
+## Concepts & Terminology
+
+* [What is Tendermint BFT and the ABCI ?](concepts-and-terminology/what-is-tendermint-bft-and-the-abci.md)
+* [Connecting Blockchains Together - IBC](concepts-and-terminology/connecting-blockchains-together-ibc.md)
+* [What is Anchor Protocol?](concepts-and-terminology/what-is-anchor-protocol.md)
+
 ## Technology
 
 * [CosmWasm](technology/cosmwasm.md)
