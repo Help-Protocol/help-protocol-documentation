@@ -14,9 +14,9 @@
 
 ## Concepts & Terminology
 
-* [What is Tendermint BFT and the ABCI ?](concepts-and-terminology/what-is-tendermint-bft-and-the-abci.md)
+* [Tendermint BFT - The Consensus](concepts-and-terminology/tendermint-bft-the-consensus.md)
 * [IBC - Connecting Blockchains Together](concepts-and-terminology/ibc-connecting-blockchains-together.md)
-* [What is Anchor Protocol?](concepts-and-terminology/what-is-anchor-protocol.md)
+* [Anchor Protocol - Enabling Stable Deposit Yields](concepts-and-terminology/anchor-protocol-enabling-stable-deposit-yields.md)
 
 ## Technology
 
