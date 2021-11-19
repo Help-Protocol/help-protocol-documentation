@@ -1,12 +1,10 @@
 # Interchain Access
 
-Help Protocol is an **interchain** DeFi protocol, meaning that it can be accessed and interact with other decentralized applications across multiple blockchains.
+**Help Protocol** is an **interchain** DeFi protocol, meaning that it can be accessed and interact with other decentralized applications across multiple blockchains.
 
+## Terra
 
-
-### Terra
-
-Help Protocol's core contracts are implemented on Terra blockchain.
+Help Protocol's core contracts are implemented on **Terra blockchain**.
 
 ### Testnet (v1)
 
@@ -19,8 +17,6 @@ Network chain ID: `bombay-12`
 | Help Factory |         |
 | Gov          |         |
 | Lock         |         |
-
-
 
 #### Help Asset Contracts
 
