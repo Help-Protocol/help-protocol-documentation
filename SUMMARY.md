@@ -29,6 +29,7 @@
 
 * [Architecture](smart-contracts/architecture.md)
 * [Deployed Contracts](smart-contracts/deployed-contracts.md)
+* [Interchain Access](smart-contracts/interchain-access.md)
 
 ## Developers
 
