@@ -1,4 +1,8 @@
-# What is Tendermint BFT and the ABCI ?
+---
+coverY: 0
+---
+
+# Tendermint BFT - The Consensus
 
 Until recently, building a blockchain required building all three layers (_Networking_, _Consensus_, and _Application_) from the ground up. Ethereum simplified the development of decentralized applications by providing a Virtual-Machine blockchain on which anyone could deploy custom logic in the form of Smart Contracts. However, it did not simplify the development of blockchains themselves. Much like Bitcoin, Go-Ethereum remains a monolithic tech stack that is difficult to fork from and customize. This is where Tendermint, created by Jae Kwon in 2014, came in.
 
@@ -7,8 +11,6 @@ Until recently, building a blockchain required building all three layers (_Netwo
 Tendermint BFT is a solution that packages the networking and consensus layers of a blockchain into a generic engine, allowing developers to focus on application development as opposed to the complex underlying protocol. As a result, Tendermint saves hundreds of hours of development time. Note that Tendermint also designates the name of the byzantine fault tolerant (BFT) consensus algorithm used within the Tendermint BFT engine. For more on the history of consensus protocols and BFT you can check this cool podcast by Tendermint co-founder Ethan Buchman.
 
 The Tendermint BFT engine is connected to the application by a socket protocol called the Application Blockchain Interface (ABCI). This protocol can be wrapped in any programming language, making it possible for developers to choose a language that fits their needs.
-
-
 
 **But that is not all**. Here are the properties that make Tendermint BFT a state-of-the-art blockchain engine:
 

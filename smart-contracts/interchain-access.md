@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # Interchain Access
 
 **Help Protocol** is an **interchain** DeFi protocol, meaning that it can be accessed and interact with other decentralized applications across multiple blockchains.

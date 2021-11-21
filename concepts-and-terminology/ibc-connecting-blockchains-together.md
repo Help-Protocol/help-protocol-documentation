@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # IBC - Connecting Blockchains Together
 
 ### Overview Paper

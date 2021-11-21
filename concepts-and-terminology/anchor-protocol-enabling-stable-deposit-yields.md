@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # Anchor Protocol - Enabling Stable Deposit Yields
 
 ### Overview Paper
