@@ -3,8 +3,8 @@
 * [Home](README.md)
   * [Introduction](home/introduction.md)
   * [Members](home/members.md)
-  * [RoadMap](home/roadmap.md)
   * [FAQ](home/faq.md)
+* [Project Roadmap](project-roadmap.md)
 
 ## Protocol
 
