@@ -2,7 +2,7 @@
 
 * [Home](README.md)
   * [Introduction](home/introduction.md)
-  * [Members](home/members.md)
+  * [Team Members](home/team-members.md)
   * [FAQ](home/faq.md)
 * [Project Roadmap](project-roadmap.md)
 
@@ -12,6 +12,13 @@
 * [Help Assets](protocol/help-assets.md)
 * [Pledge Token](protocol/pledge-token.md)
 * [Terraswap](protocol/terraswap.md)
+* [Help Station](protocol/help-station.md)
+* [Page 1](protocol/page-1.md)
+
+## Getting Started
+
+* [Prerequisite](getting-started/prerequisite.md)
+* [Creating Terra Wallet](getting-started/creating-terra-wallet.md)
 
 ## Concepts & Terminology
 
@@ -41,7 +48,6 @@
 * [Interchain Transfers](user-guide/interchain-transfers.md)
 * [Web App](user-guide/web-app.md)
 * [Terra Bridge](user-guide/terra-bridge.md)
-* [Help Station](user-guide/help-station.md)
 
 ## External Resources
 
